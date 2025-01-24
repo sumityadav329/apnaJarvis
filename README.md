@@ -1,2 +1,3 @@
-# apnaJarvis
- My own AI personal assistant
+# JarvisBot
+
+A personalized home automation assistant.
